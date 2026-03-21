@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+chembl-webresource-client
+jupyter
+ipython
+# RDKit — install separately via conda:
+# conda install -c conda-forge rdkit
