@@ -79,17 +79,7 @@ Aspirin, Ibuprofen, Caffeine, Morphine, Diazepam, Warfarin, and 19 more common d
 
 ---
 
-## Team
 
-Developed as part of B.Tech CSE project at VIT Bhopal University (March 2025)
-
-- Divyam Choudhary (23BCE11129)
-- Promal Sharma (23BCE10541)
-- Girish Jaiswal (23BCE11257)
-- Hogarth Neeraj (23BCE11101)
-- Dev Maggo (23BCE11790)
-
----
 
 ## License
 
